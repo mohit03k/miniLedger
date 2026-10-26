@@ -4,6 +4,14 @@ A small app for keeping track of money lent to friends. Sign in with a phone num
 
 Built with React Native and Expo, an Express API in TypeScript, and PostgreSQL with Prisma.
 
+## Preview
+
+![mini-login](./assets/mini-login.png)
+![mini-verify](./assets/mini-verify.png)
+![mini-summary](./assets/mini-summary.png)
+![mini-all](./assets/mini-all.png)
+![mini-all](./assets/mini-addloan.png)
+
 ## Requirements
 
 - Node.js 22.23.1 or a newer LTS release, and npm
