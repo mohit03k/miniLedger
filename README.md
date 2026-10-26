@@ -6,11 +6,20 @@ Built with React Native and Expo, an Express API in TypeScript, and PostgreSQL w
 
 ## Preview
 
-![mini-login](./assets/mini-login.png)
-![mini-verify](./assets/mini-verify.png)
-![mini-summary](./assets/mini-summary.png)
-![mini-all](./assets/mini-all.png)
-![mini-all](./assets/mini-addloan.png)
+<table>
+  <tr>
+    <td><img src="./assets/mini-login.png" alt="Phone login" width="220" /></td>
+    <td><img src="./assets/mini-verify.png" alt="OTP verification" width="220" /></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/mini-summary.png" alt="Loan summary" width="220" /></td>
+    <td><img src="./assets/mini-all.png" alt="Loan entries" width="220" /></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/mini-addloan.png" alt="Add a loan" width="220" /></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Requirements
 
